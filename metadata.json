@@ -1,0 +1,5 @@
+{
+  "name": "LeatherAI",
+  "description": "An MVP for leather quality analysis using Gemini AI and Firebase. Users can upload leather images, get automated defect classification, and generate reports.",
+  "requestFramePermissions": []
+}
